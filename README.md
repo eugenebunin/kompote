@@ -1,0 +1,3 @@
+# kompote
+
+Quick start
